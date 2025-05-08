@@ -2,6 +2,7 @@
 Unity 6 FPS game
 # Documentation
 This project is based on Unity 6. 
+link: https://drive.google.com/file/d/1LXW92Z971BgQY95MDGg9GVPuzYSVVfRB/view?usp=sharing
 
 4/14 - 4/21
 - Created new project
